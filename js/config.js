@@ -1,0 +1,1 @@
+export const WORKER_URL = "https://emailer.iggyvolz.workers.dev";
